@@ -1,0 +1,11 @@
+saving this file.
+
+1. To make a folder a repository, 
+
+	git init,
+
+2. Check repository status,
+ 	git status
+
+3. Add files to git
+
