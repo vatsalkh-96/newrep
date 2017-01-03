@@ -7,5 +7,9 @@ saving this file.
 2. Check repository status,
  	git status
 
-3. Add files to git
+3. Commit files
+	
+	git commit  
+	or 
+	git commit -m "commit message here"
 
